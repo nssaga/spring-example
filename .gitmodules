@@ -1,0 +1,3 @@
+[submodule "spring-jpa-pessimistic"]
+	path = spring-jpa-pessimistic
+	url = https://github.com/nssaga/spring-jpa-pessimistic.git
