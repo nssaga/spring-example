@@ -1,3 +1,6 @@
 [submodule "spring-jpa-pessimistic"]
 	path = spring-jpa-pessimistic
 	url = https://github.com/nssaga/spring-jpa-pessimistic.git
+[submodule "spring-querydsl"]
+	path = spring-querydsl
+	url = https://github.com/nssaga/spring-querydsl.git
